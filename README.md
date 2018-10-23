@@ -20,7 +20,7 @@ A simple interface for accessing the webuntis API
         console.log(teachers);
       });
 
-      w.logOut();
+      w.logout();
   });
   ```
 
